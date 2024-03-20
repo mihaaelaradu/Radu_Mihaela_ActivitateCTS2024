@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println(client);
 
-        ((Client)client2).set
+        ((Client)client2).setVarsta(20);
         System.out.println(client2);
     }
 }

@@ -27,7 +27,7 @@ public class Client  implements  AbstractPrototype {
         newClient.varsta = this.varsta;
         newClient.listaAccesorii = new ArrayList<>();
         this.listaAccesorii.forEach(accesoriu -> {
-            newClient.listaAccesorii.add(accesoriu)
+            newClient.listaAccesorii.add(accesoriu);
         });
         return  null;
     }
@@ -39,6 +39,33 @@ public class Client  implements  AbstractPrototype {
                 ", varsta=" + varsta +
                 ", nume='" + nume + '\'' +
                 '}';
+    }
+
+    public List<String> getListaAccesorii() {
+        return listaAccesorii;
+    }
+
+    public void setListaAccesorii(List<String> listaAccesorii) {
+        this.listaAccesorii = listaAccesorii;
+    }
+
+    public int getVarsta() {
+        return varsta;
+    }
+
+    public void setVarsta(int varsta) {
+        if(varsta<14 ){
+            throw new RuntimeException("err");
+        }
+        this.varsta = varsta;
+    }
+
+    public String getNume() {
+        return nume;
+    }
+
+    public void setNume(String nume) {
+        this.nume = nume;
     }
 }
 
