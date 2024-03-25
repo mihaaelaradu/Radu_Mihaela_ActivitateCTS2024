@@ -1,10 +1,9 @@
 package clase;
 
 public class Raceala extends Medicament{
-    private int cantitate;
-    public Raceala(String denumire, float pret, int cantitate) {
+
+    public Raceala(String denumire, float pret) {
         super(denumire, pret);
-        this.cantitate = cantitate;
     }
 
     @Override

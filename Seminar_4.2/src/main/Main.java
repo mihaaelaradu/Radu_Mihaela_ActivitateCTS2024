@@ -15,11 +15,11 @@ public class Main {
         FabricaMedicamente fabrica = new FabricaBody("medicament", 33.4f);
         procesareMedicament(fabrica);
 
-        procesareMedicament(new FabricaGripa( "paracetamol", 8.0f));
+        procesareMedicament(new FabricaGripa( "paracetamol", 8.0f, 6));
     }
 
     public static void procesareMedicament(FabricaMedicamente fabricaMedicamente){
-        Medicament medicament = FabricaMedicamente.creareMedicament();
-        medicament.afisareMedicament();
+       Medicament medicament = fabricaMedicamente.creareMedicament();
+       medicament.afisareMedicament();
     }
 }

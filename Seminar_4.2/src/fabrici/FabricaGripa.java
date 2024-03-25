@@ -8,11 +8,11 @@ public class FabricaGripa extends FabricaMedicamente{
 
     public FabricaGripa(String denumire, float pret, int cantitate) {
         super(denumire, pret);
-        this.cantitate = cantiate;
+        this.cantitate = cantitate;
     }
 
     @Override
     public Medicament creareMedicament() {
-        return new Gripa(super.getDenumire(), super.getPret(), cantitate)
+        return new Gripa(super.getDenumire(), super.getPret(), this.cantitate);
     }
 }
