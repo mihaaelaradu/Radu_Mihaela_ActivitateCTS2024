@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Builder/Builder.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Builder_1/Builder_1.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Builder_1/Builder_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/EX1-Singleton/EX1-Singleton.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/EX1-Singleton/EX1-Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/EX2-FactoeySimple/EX2-FactoeySimple.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/EX2-FactoeySimple/EX2-FactoeySimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/EX3-FactoryMethod/EX3-FactoryMethod.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/EX3-FactoryMethod/EX3-FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/EX4-Builder/EX4-Builder.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/EX4-Builder/EX4-Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/ExercitiiSuplimentare.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/ExercitiiSuplimentare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod_1/FactoryMethod_1.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod_1/FactoryMethod_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod_1.2/FactoryMethod_1.2.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod_1.2/FactoryMethod_1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar.iml" filepath="$PROJECT_DIR$/Seminar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_1/Seminar_1.iml" filepath="$PROJECT_DIR$/Seminar_1/Seminar_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_2/Seminar_2.iml" filepath="$PROJECT_DIR$/Seminar_2/Seminar_2.iml" />
@@ -11,6 +22,11 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar_5/Seminar_5.iml" filepath="$PROJECT_DIR$/Seminar_5/Seminar_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_5/Seminar_5.1/Seminar_5.1.iml" filepath="$PROJECT_DIR$/Seminar_5/Seminar_5.1/Seminar_5.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_5/Seminar_5.2/Seminar_5.2.iml" filepath="$PROJECT_DIR$/Seminar_5/Seminar_5.2/Seminar_5.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/SimpleFactory/SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/SimpleFactory_1/SimpleFactory_1.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/SimpleFactory_1/SimpleFactory_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/SimpleFactory_1.2/SimpleFactory_1.2.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/SimpleFactory_1.2/SimpleFactory_1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Singleton_1/Singleton_1.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Singleton_1/Singleton_1.iml" />
     </modules>
   </component>
 </project>

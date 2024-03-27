@@ -13,7 +13,7 @@ public class Main {
         List<String> accesorii =  new ArrayList<>();
         accesorii.add("aaa");
         accesorii.add("bbb");
-        Client client = new Client(10, "ana", accesorii);
+        Client client = new Client(17, "ana", accesorii);
 
         AbstractPrototype client2 = client.clone();
 

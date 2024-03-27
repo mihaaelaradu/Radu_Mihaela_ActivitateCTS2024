@@ -11,7 +11,6 @@ public class RezervareBuilder implements AbstractBuilder{
 
     @Override
     public Rezervare build() {
-
         return rezervare;
     }
 

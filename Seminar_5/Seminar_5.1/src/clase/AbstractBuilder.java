@@ -9,8 +9,6 @@ public interface AbstractBuilder {
     AbstractBuilder adaugaMancare();
     AbstractBuilder adaugaMuzica();
     AbstractBuilder adaugaGenMuzical();
-
-
     AbstractBuilder adaugaGenMuzical(String genMuzical);
 }
 

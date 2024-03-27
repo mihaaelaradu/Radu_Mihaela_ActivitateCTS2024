@@ -13,19 +13,11 @@ public abstract class Medicament {
         return denumire;
     }
 
-    public void setDenumire(String denumire) {
-        this.denumire = denumire;
-    }
-
     public float getPret() {
         return pret;
     }
 
-    public void setPret(float pret) {
-        this.pret = pret;
-    }
-
     @Override
     public abstract void afisareDetalii();
-        System.out.printf("%s costa $s si este bun pentru corp", this.getDenumire(), this.getPret())
+        System.out.println("%s costa %f si este bun pentru corp", this.getDenumire(), this.getPret())
 }

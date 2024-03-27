@@ -16,12 +16,6 @@ public class Rezervare {
 
 
         @Override
-        public Rezervare build() {
-            Rezervare rezervare = new
-            return null;
-        }
-
-        @Override
         public AbstractBuilder adaugaScaunErgonomic() {
             this.areScaunErgonomic = true;
             return this;
@@ -45,16 +39,25 @@ public class Rezervare {
             return this;
         }
 
-        @Override
+         @Override
+         public AbstractBuilder adaugaGenMuzical() {
+             return null;
+         }
+
+         @Override
         public AbstractBuilder adaugaGenMuzical(String genMuzical) {
             this.areMuzica = true;
             this.genMuzical = genMuzical;
+            return this;
         }
 
-        @Override
-        public AbstractBuilder adaugaGenMuzical(String genMuzical) {
-            return null;
-        }
+         @Override
+         public Rezervare build() {
+             Rezervare rezervare = new Rezervare();
+             return rezervare;
+         }
+
+
     }
 
 
