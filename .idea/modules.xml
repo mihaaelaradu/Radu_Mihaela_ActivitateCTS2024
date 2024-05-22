@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Seminar_10/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Seminar_10/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Adapter_1/Adapter_1.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Adapter_1/Adapter_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Adapter_deClase/Adapter_deClase.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Adapter_deClase/Adapter_deClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Adapter_deObiecte/Adapter_deObiecte.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Adapter_deObiecte/Adapter_deObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Builder/Builder.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Builder_1/Builder_1.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Builder_1/Builder_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_9/ChainOfresponsability/ChainOfresponsability.iml" filepath="$PROJECT_DIR$/Seminar_9/ChainOfresponsability/ChainOfresponsability.iml" />
@@ -10,13 +13,17 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Composite/Composite.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_8/Composite1/Composite1.iml" filepath="$PROJECT_DIR$/Seminar_8/Composite1/Composite1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_8/Composite2/Composite2.iml" filepath="$PROJECT_DIR$/Seminar_8/Composite2/Composite2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Composite_1/Composite_1.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Composite_1/Composite_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Decorator_2/Decorator_2.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Decorator_2/Decorator_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/EX1-Singleton/EX1-Singleton.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/EX1-Singleton/EX1-Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/EX2-FactoeySimple/EX2-FactoeySimple.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/EX2-FactoeySimple/EX2-FactoeySimple.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/EX3-FactoryMethod/EX3-FactoryMethod.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/EX3-FactoryMethod/EX3-FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/EX4-Builder/EX4-Builder.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/EX4-Builder/EX4-Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/ExercitiiSuplimentare.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/ExercitiiSuplimentare.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_10/Facade/Facade.iml" filepath="$PROJECT_DIR$/Seminar_10/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Facade_1/Facade_1.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Facade_1/Facade_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Facade_2/Facade_2.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Facade_2/Facade_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod_1/FactoryMethod_1.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod_1/FactoryMethod_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod_1.2/FactoryMethod_1.2.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/FactoryMethod_1.2/FactoryMethod_1.2.iml" />
@@ -26,10 +33,12 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar_9/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminar_9/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Observer_1/Observer_1.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Observer_1/Observer_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiSuplimentare/Proxy_1/Proxy_1.iml" filepath="$PROJECT_DIR$/ExercitiiSuplimentare/Proxy_1/Proxy_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar.iml" filepath="$PROJECT_DIR$/Seminar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_1/Seminar_1.iml" filepath="$PROJECT_DIR$/Seminar_1/Seminar_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_10/Seminar_10.iml" filepath="$PROJECT_DIR$/Seminar_10/Seminar_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_11/Seminar_11.iml" filepath="$PROJECT_DIR$/Seminar_11/Seminar_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar_12/Seminar_12.iml" filepath="$PROJECT_DIR$/Seminar_12/Seminar_12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_2/Seminar_2.iml" filepath="$PROJECT_DIR$/Seminar_2/Seminar_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_3/Seminar_3.iml" filepath="$PROJECT_DIR$/Seminar_3/Seminar_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_4/Seminar_4.1.iml" filepath="$PROJECT_DIR$/Seminar_4/Seminar_4.1.iml" />
